@@ -22,6 +22,8 @@ https://guides.rubyonrails.org/getting_started.html
 
 https://mixandgo.com/learn/how-i-create-a-new-rails-project
 
+http://rusrails.ru/getting-started-with-rails
+
 Можливо треба буде поставити інші версії рубі, рельсів, це треба буде зрозуміти і запустити.
 
 ## Відповіді заповнити та відправити тут:
