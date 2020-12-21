@@ -28,4 +28,4 @@ http://rusrails.ru/getting-started-with-rails
 
 ## Відповіді заповнити та відправити тут:
 
-https://forms.gle/uYkR23kZhhkTMRqBA
+https://forms.gle/TZ4LVkAchoKMSCEh9
