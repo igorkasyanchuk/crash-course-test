@@ -8,8 +8,8 @@
 
 ```ruby
 str  = "WORLD 123 olleh".chars
-code = str[-5..-1].reverse - ['1', '2']
-code = code.join("|").concat(" !!!!")
+code = str[-5..-1].reverse - ['2', '2']
+code = code.join.concat("!")
 puts code.upcase
 ```
 
