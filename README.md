@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=MCDBBT0X39s - приклад створення 
 
 ## Відповіді заповнити та відправити тут:
 
-https://forms.gle/2saxdpq1g5VY7bbP8
+https://forms.gle/pVMXzkAj9aJSK3AK6
 
 --------
 
